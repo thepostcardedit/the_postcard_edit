@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yourwebsiteurl.com/sitemap.xml
+Sitemap: https://thepostcardedit.github.io/the_postcard_edit/sitemap.xml
